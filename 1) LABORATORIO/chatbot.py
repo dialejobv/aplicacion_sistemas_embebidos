@@ -1,7 +1,7 @@
 import requests
 
 #Aquí voy a usar mi APIKEY
-API_KEY = 'sk-2d5996dc3b04479e9dacbf5d0085ce60'
+API_KEY = ''
 API_URL = 'https://api.deepseek.com/v1/chat/completions'
 
 def enviar_mensaje(mensaje, modelo='deepseek-chat'):

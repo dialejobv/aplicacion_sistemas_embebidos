@@ -6,7 +6,7 @@ import requests
 from streamlit_mic_recorder import speech_to_text
 
 # Configuración de DeepSeek
-API_KEY = 'sk-2d5996dc3b04479e9dacbf5d0085ce60'  # Usa st.secrets en producción
+API_KEY = ''  # Usa st.secrets en producción
 API_URL = 'https://api.deepseek.com/v1/chat/completions'
 
 def enviar_mensaje(mensaje):
