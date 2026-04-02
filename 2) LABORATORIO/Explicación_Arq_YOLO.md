@@ -38,6 +38,7 @@ A continuación se expondrá una tabla que muestra las versiones más importante
 </p>
 <img width="1766" height="692" alt="image" src="https://github.com/user-attachments/assets/0611a98b-15ff-49d0-b8fc-2d4bff5eb246" />
 <p align="justify">
+  
 **Nota:** Aunque actualmente se expone un **YOLOv12** y un **YOLOv13** que son versiones que la comunidad está desarrollando, las fuentes oficiales como Ultralitycs no recomiendan su uso en producción porque aún presentan problemas de inestabilidad, mayor consumo de memoria y ganancia de precisión marginales.
 </p>
 
