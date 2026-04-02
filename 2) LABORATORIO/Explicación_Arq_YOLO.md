@@ -9,7 +9,7 @@ Su funcionamiento de manera resumida se puede exponer en los siguientes pasos:
 * Las coordenadas (centro, ancho, alto).
 * Una "puntuación de confianza" (qué tan seguro está de que hay un objeto ahí).
 * Las probabilidades de clase (qué objeto es).
-3. **Post-procesamiento:** Finalmente, se utiliza una técnica llamada Supresión No Máxima (NMS) para eliminar las predicciones duplicadas y quedarse con la más precisa para cada objeto. [2](https://www.ultralytics.com/es/blog/the-evolution-of-object-detection-and-ultralytics-yolo-models)]
+3. **Post-procesamiento:** Finalmente, se utiliza una técnica llamada Supresión No Máxima (NMS) para eliminar las predicciones duplicadas y quedarse con la más precisa para cada objeto. [[2](https://www.ultralytics.com/es/blog/the-evolution-of-object-detection-and-ultralytics-yolo-models)]
 
 
 Referencias:
