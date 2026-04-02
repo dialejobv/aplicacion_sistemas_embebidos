@@ -1,5 +1,7 @@
 # YOLO (You Only Look Once)
+<p align="justify">
 YOLO, que significa "You Only Look Once" (Solo miras una vez), es una familia de arquitecturas de redes neuronales para detección de objetos en tiempo real, este trata laa detección como un único problema de regresión, en palabras sencillas da solo una miradaa la imagen y permite la predicción simultánea de los cuadros delimitadores y las clases de los objetos, lo que permite que sea bastante ágil, capaz de procesar decenas o cientos de fotogramas por segundo, esto permite que sea usado en diferentes aplicaciones desde la conducción autónoma, transporte inteligente en ciudades inteligentes, robótica, salud y edu ación [[1](https://www.innovatiana.com/es/post/what-is-yolo-in-ai)].
+</p>
 
 ## ¿Cómo funciona YOLO?
 
