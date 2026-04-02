@@ -4,7 +4,7 @@ YOLO, que significa "You Only Look Once" (Solo miras una vez), es una familia de
 </p>
 
 ## ¿Cómo funciona YOLO?
-<p align="justify">
+
 Su funcionamiento de manera resumida se puede exponer en los siguientes pasos:
 1. **División de la imagen:** Toma la imagen de entrada y la divide en una cuadrícula (por ejemplo, 13x13 o 19x19 celdas).
 2. **Predicción por celda:** Cada celda de la cuadrícula es responsable de predecir un cierto número de cuadros delimitadores. Para cada cuadro, predice:
@@ -12,7 +12,7 @@ Su funcionamiento de manera resumida se puede exponer en los siguientes pasos:
 * Una "puntuación de confianza" (qué tan seguro está de que hay un objeto ahí).
 * Las probabilidades de clase (qué objeto es).
 3. **Post-procesamiento:** Finalmente, se utiliza una técnica llamada Supresión No Máxima (NMS) para eliminar las predicciones duplicadas y quedarse con la más precisa para cada objeto. [[2](https://www.ultralytics.com/es/blog/the-evolution-of-object-detection-and-ultralytics-yolo-models)]
-</p>
+
 
 Referencias: 
 
