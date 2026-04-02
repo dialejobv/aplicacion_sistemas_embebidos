@@ -42,7 +42,7 @@ Los hitos más relevantes en la historia de YOLO fue:
 
 [4] Ultralytics, “YOLOv5 vs. YOLOv8: Evaluando la Evolución de la IA de Visión de Ultralytics”, Ultralytics.com, 01-abr-2025. [En línea]. Disponible en: https://docs.ultralytics.com/es/compare/yolov5-vs-yolov8/. [Consultado: 01-abr-2026].
 
-[5] Ultralytics.com. [En línea]. Disponible en: https://docs.ultralytics.com/es/compare/)][[6](https://opensistemas.com/yolo11-mas-rapido-mas-preciso-mas-versatil/. [Consultado: 01-abr-2026].
+[5] Ultralytics.com. [En línea]. Disponible en: https://docs.ultralytics.com/es/compare/ . [Consultado: 01-abr-2026].
 
 [6] Opensistemas.com. [En línea]. Disponible en: https://opensistemas.com/yolo11-mas-rapido-mas-preciso-mas-versatil/. [Consultado: 01-abr-2026].
 
