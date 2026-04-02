@@ -1,6 +1,6 @@
 # YOLO (You Only Look Once)
 <p align="justify">
-YOLO, que significa "You Only Look Once" (Solo miras una vez), es una familia de arquitecturas de redes neuronales para detección de objetos en tiempo real, este trata laa detección como un único problema de regresión, en palabras sencillas da solo una miradaa la imagen y permite la predicción simultánea de los cuadros delimitadores y las clases de los objetos, lo que permite que sea bastante ágil, capaz de procesar decenas o cientos de fotogramas por segundo, esto permite que sea usado en diferentes aplicaciones desde la conducción autónoma, transporte inteligente en ciudades inteligentes, robótica, salud y edu ación [[1](https://www.innovatiana.com/es/post/what-is-yolo-in-ai)].
+YOLO, que significa "You Only Look Once" (Solo miras una vez), es una familia de arquitecturas de redes neuronales para detección de objetos en tiempo real, este trata laa detección como un único problema de regresión, en palabras sencillas da solo una miradaa la imagen y permite la predicción simultánea de los cuadros delimitadores y las clases de los objetos, lo que permite que sea bastante ágil, capaz de procesar decenas o cientos de fotogramas por segundo, esto permite que sea usado en diferentes aplicaciones desde la conducción autónoma, transporte inteligente en ciudades inteligentes, robótica, salud y edu ación [1].
 </p>
 
 ## ¿Cómo funciona YOLO?
@@ -11,7 +11,7 @@ Su funcionamiento de manera resumida se puede exponer en los siguientes pasos:
 * Las coordenadas (centro, ancho, alto).
 * Una "puntuación de confianza" (qué tan seguro está de que hay un objeto ahí).
 * Las probabilidades de clase (qué objeto es).
-3. **Post-procesamiento:** Finalmente, se utiliza una técnica llamada Supresión No Máxima (NMS) para eliminar las predicciones duplicadas y quedarse con la más precisa para cada objeto. [[2](https://www.ultralytics.com/es/blog/the-evolution-of-object-detection-and-ultralytics-yolo-models)]
+3. **Post-procesamiento:** Finalmente, se utiliza una técnica llamada Supresión No Máxima (NMS) para eliminar las predicciones duplicadas y quedarse con la más precisa para cada objeto [2].
 
 ## Breve Historia de YOLO
 
@@ -29,7 +29,7 @@ Los hitos más relevantes en la historia de YOLO fue:
 2023-2024: La Era de la Eficiencia y la Versatilidad (YOLOv8, YOLOv9, YOLOv10):  Ultralytics lanza YOLOv8, un marco de trabajo unificado para detección, segmentación y estimación de pose. Aparecen YOLOv9 (centrado en la eficiencia computacional con PGI y GELAN) y YOLOv10 (que elimina la necesidad de NMS).
 </p>
 <p align="justify">
-2025-2026: El Estado del Arte (YOLO11 y YOLO26): Se lanza YOLO11, que ofrece mejor precisión con menos parámetros. Finalmente, en 2026, llega YOLO26, el último modelo de Ultralytics, que incorpora un diseño "end-to-end" que elimina por completo el paso de post-procesamiento (NMS) y es hasta un 43% más rápido en CPUs [[3]( https://es.so-development.org/comparing-yolov12-and-yolov13-the-evolution-of-real-time-object-detection/)],[[4](https://docs.ultralytics.com/es/compare/yolov5-vs-yolov8/)],[[5](https://opensistemas.com/yolo11-mas-rapido-mas-preciso-mas-versatil/)].
+2025-2026: El Estado del Arte (YOLO11 y YOLO26): Se lanza YOLO11, que ofrece mejor precisión con menos parámetros. Finalmente, en 2026, llega YOLO26, el último modelo de Ultralytics, que incorpora un diseño "end-to-end" que elimina por completo el paso de post-procesamiento (NMS) y es hasta un 43% más rápido en CPUs [3],[4],[5].
 </p>
 
 # Tabla de Comparación Principales Versiones de YOLO
@@ -103,7 +103,7 @@ Teniendo el siguiente resultado:
 
 <img width="1456" height="1064" alt="image" src="https://github.com/user-attachments/assets/ee7f69a7-48bf-429b-a995-6aa35e9ff01c" />
 
-La arquitectura de YOLOv8 es (para más información consultar[[7](https://blog.roboflow.com/what-is-yolov8/)]): 
+La arquitectura de YOLOv8 es (para más información consultar[7]: 
 
 <img width="1542" height="1580" alt="image" src="https://github.com/user-attachments/assets/d76a47b5-e0f8-4add-b081-992e38105230" />
 
